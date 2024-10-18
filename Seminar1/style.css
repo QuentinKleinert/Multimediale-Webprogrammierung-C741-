@@ -1,0 +1,27 @@
+.paragraf {
+    color: red;
+}
+
+#erster {
+    font-size: 20px;
+    color: rgba(255, 87, 51, 0.5);
+    font-family: Arial;
+}
+
+#zweiter {
+    font-size: 2em;
+    color: rgba(40, 163, 116, 0.5);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#dritter {
+    font-size: 3rem;
+    color: rgba(201, 27, 143, 0.5);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    border: 2px solid black; /* 2px breite, durchgezogene, schwarze Linie */
+    padding: 10px; /* Abstand zwischen Text und Umrandung */
+    display: inline-block;
+}
